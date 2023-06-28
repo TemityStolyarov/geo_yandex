@@ -1,3 +1,3 @@
 # geo_yandex
 
-A new Flutter project.
+yandex map tile finder based on geolocation service
